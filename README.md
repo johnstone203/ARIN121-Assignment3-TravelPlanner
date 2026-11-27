@@ -1,4 +1,3 @@
-# ARIN121-Assignment3-TravelPlanner
 # ARIN121 Assignment 3: Travel Planner
 
 This is an AI travel planner built with a system prompt in Google AI Studio. It helps travellers plan trips and revise them, and it keeps track of their details through the conversation.
